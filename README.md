@@ -3,14 +3,18 @@
 
 - 👋 Hi, I’m André and this is my stack @andrestack
   
-- 👀 I’m interested in function based programming and also where this journey is going to take me. Since I have basically only writte my first line of HTML 4 months ago .
+- 👀 I’m having a hard time transitioning into tech and learning how to code, but I AM LOVING EVERY AVAILABLE MINUTE OF IT! I am into function based programming and wrote my first line of HTML ca. 1 year ago.
   
-- 🌱 I’m currently (re)learning all the basics I covered during my bootcamp and continuing to work on my project Sala, which a one-stop shop for online teachers and tutors to teach their classes and automatically generate invoices from that.
-  My next goal is TypeScript and AWS for the backend.
+- 🌱 I’m constantly learning and relearning all the basics I covered during my bootcamp and am currently working on:
+  - Sala: a one-stop shop for online teachers and tutors to teach their classes and automatically generate invoices; currently pondering to switch the web conferencing API
+  - dAItabes: putting all my saved links and IG reels on all the cool AI stuff in one UI... YES! Another one of those aggregators!
+  - Tatch: still top-secret Chrome extension
   
-- 💞️ I’m looking to collaborate on React / NextJS projects that integrate both ends of the wonderful of requests and responses!
+- 💞️ I’m looking to collaborate on React / NextJS projects that integrate both ends of the wonderful world of requests and responses!
   
-- 📫 How to reach me ... good question!
+- 📫 How to reach me: mail at andresilva.online
+
+- check my website, which i didn't code 😅: andresilva.online
   
 ### to be continued...(definitely)
 <!---
