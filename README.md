@@ -16,7 +16,6 @@
   
 - 📫 How to reach me: mail at andresilva.online
 
-- check my website, which i didn't code 😅: andresilva.online
   
 ### to be continued...(definitely)
 <!---
